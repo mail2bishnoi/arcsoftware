@@ -18,10 +18,10 @@ export default createMuiTheme({
     }
   },
   typography: {
-    tab:{
-      fontFamily:"Raleway",
-      fontWeight:700,
-      textTransform:"none"
+    tab: {
+      fontFamily: "Raleway",
+      fontWeight: 700,
+      textTransform: "none"
     },
     estimate: {
       fontFamily: "Pacifico",
@@ -50,7 +50,12 @@ export default createMuiTheme({
     subtitle1: {
       fontWeight: 300,
       fontSize: "1.25rem",
-      color: arcGrey,       
+      color: arcGrey,
+    },
+    subtitle2: {
+      fontWeight: 300,
+      fontSize: "1.25rem",
+      color: 'white',
     },
     learnButton: {
       borderColor: arcBlue,
@@ -60,6 +65,6 @@ export default createMuiTheme({
       borderRadius: 50,
       fontFamily: "Roboto",
       fontWeight: "bold"
-    }    
+    }
   }
 });
