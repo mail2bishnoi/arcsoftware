@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/arcsoftware/static/js/main.e2ba3ba8.chunk.js",
-    "main.js.map": "/arcsoftware/static/js/main.e2ba3ba8.chunk.js.map",
+    "main.js": "/arcsoftware/static/js/main.68fb60f7.chunk.js",
+    "main.js.map": "/arcsoftware/static/js/main.68fb60f7.chunk.js.map",
     "runtime-main.js": "/arcsoftware/static/js/runtime-main.af714597.js",
     "runtime-main.js.map": "/arcsoftware/static/js/runtime-main.af714597.js.map",
-    "static/js/2.36f0a92c.chunk.js": "/arcsoftware/static/js/2.36f0a92c.chunk.js",
-    "static/js/2.36f0a92c.chunk.js.map": "/arcsoftware/static/js/2.36f0a92c.chunk.js.map",
+    "static/js/2.2d1443d8.chunk.js": "/arcsoftware/static/js/2.2d1443d8.chunk.js",
+    "static/js/2.2d1443d8.chunk.js.map": "/arcsoftware/static/js/2.2d1443d8.chunk.js.map",
     "index.html": "/arcsoftware/index.html",
-    "static/js/2.36f0a92c.chunk.js.LICENSE.txt": "/arcsoftware/static/js/2.36f0a92c.chunk.js.LICENSE.txt",
+    "static/js/2.2d1443d8.chunk.js.LICENSE.txt": "/arcsoftware/static/js/2.2d1443d8.chunk.js.LICENSE.txt",
     "static/media/Custom Software Icon.c2d29ed8.svg": "/arcsoftware/static/media/Custom Software Icon.c2d29ed8.svg",
     "static/media/Footer Adornment.b344a3e1.svg": "/arcsoftware/static/media/Footer Adornment.b344a3e1.svg",
     "static/media/facebook.5ebde1b6.svg": "/arcsoftware/static/media/facebook.5ebde1b6.svg",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.af714597.js",
-    "static/js/2.36f0a92c.chunk.js",
-    "static/js/main.e2ba3ba8.chunk.js"
+    "static/js/2.2d1443d8.chunk.js",
+    "static/js/main.68fb60f7.chunk.js"
   ]
 }
